@@ -58,6 +58,7 @@ export default function Home() {
           items={items}
           style={{
           backgroundColor: '#B4E4FF',
+          color: 'purple',
         }}
         />
       </Header>
